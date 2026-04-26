@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+strategy:
+  funding-threshold-percent: 0.08
+  basis-threshold-percent: 0.20
+  basis-close-threshold-percent: 0.03
+  confirm-seconds: 8
